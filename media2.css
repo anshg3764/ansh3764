@@ -1,0 +1,48 @@
+body {
+    
+    margin: 50px 50px 50px;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+
+}
+.ansh1{
+    flex: 5;
+}
+h1{
+    font-size: small;
+
+}
+footer{
+    text-align: right;
+    color: blue;
+
+}
+.ansh4{
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+.card{
+    width: 45%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.ansh2{
+    color: midnightblue;
+}
+h1{
+    font-size: 3.5rem;
+    text-align: center;
+}
+.card{
+    width: 100%;
+    display: block;
+    margin-bottom: 100px;
+   
+}
