@@ -1,0 +1,14 @@
+h1,h2{
+    color: blueviolet;
+}
+.box > p{
+    color: rgba(159, 165, 42, 0.818);
+}
+.box li {
+    color: aquamarine;
+}
+.blur{
+    height: 10;
+    width: 400;
+    filter: blur(add=1 ,direction = 90 , strength = 4);
+}
